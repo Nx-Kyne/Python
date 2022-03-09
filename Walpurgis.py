@@ -1,3 +1,2 @@
 Language = "Bangsat"
 
-print(Language)
