@@ -1,4 +1,7 @@
 Language = "Bangsat"
 
-Kontol = input("Massukan Nilai Uang = ")
+Kontol = int(input("Massukan Nilai Uang = "))
 
+Memeq = Kontol + 1
+
+print(Memeq)
