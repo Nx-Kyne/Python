@@ -1,0 +1,3 @@
+Language = "Bangsat"
+
+print(Language)
